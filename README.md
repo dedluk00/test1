@@ -1,2 +1,0 @@
-# DateParser
-Java project
